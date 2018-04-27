@@ -1,0 +1,4 @@
+Dini: Design trends
+Tina: php coding patterns
+Shemal: VCS
+Andraw: Wed Security
